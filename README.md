@@ -1,5 +1,5 @@
 # Vigenere-cipher
-# НАСТАНОВА КОРИСТУВАЧУ
+## НАСТАНОВА КОРИСТУВАЧУ
 щодо роботи з комп'ютерною програмою “Шифрування методом Віженера”
 
 # ВСТУП
@@ -53,4 +53,4 @@
 <br>
 <a href="https://raw.githubusercontent.com/RomanButsiy/Vigenere-cipher/master/screens/Screen6.png"><img src="https://raw.githubusercontent.com/RomanButsiy/Vigenere-cipher/master/screens/Screen6.png"></a>
 
-# 2018 Roman
+## 2018 Roman
