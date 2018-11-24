@@ -12,6 +12,6 @@
 # ВСТАНОВЛЕННЯ КОМП’ЮТЕРНОЇ ПРОГРАМИ
 Нижче буде наведено приклад встановлення та запуску програми на операційній системі Ubuntu 18.04 LTS. Ці кроки можуть несуттєво відрізнятися на інших операційних системах. Спочатку потрібно встановити DOS — емулятор або транслятор, якщо такий необхідно. На рисунку 1 показано встановлення DOS емулятора dosbox.
 <br>
-<a href="https://raw.githubusercontent.com/RomanButsiy/Vigenere-cipher/master/screens/Screen1.png"><img src="https://raw.githubusercontent.com/RomanButsiy/ESP8266_MRF49XA/master/screens/Screen1.png" align="center"></a>
+<a href="https://raw.githubusercontent.com/RomanButsiy/Vigenere-cipher/master/screens/Screen1.png"><img src="https://raw.githubusercontent.com/RomanButsiy/Vigenere-cipher/master/screens/Screen1.png" align="center"></a>
 <br>
 Рисунок 1 — Встановлення dosbox
